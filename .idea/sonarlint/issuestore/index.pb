@@ -11,3 +11,11 @@ w
 Gsrc/main/java/co/com/choucair/formacion/reto02/tasks/FormInicialSI.java,1\6\16878ce8fc6b2715fdf81df1c5e98bb985f13615
 ƒ
 Ssrc/main/java/co/com/choucair/formacion/reto02/userinterface/FormInicialSIPage.java,1\4\14a533db42de614c0434226ab389500be963c071
+w
+Gsrc/main/java/co/com/choucair/formacion/reto02/tasks/FormInicialNO.java,7\c\7c7363199371383180f53782c5bd8186b0728b0a
+ƒ
+Ssrc/main/java/co/com/choucair/formacion/reto02/userinterface/FormInicialNOPage.java,4\f\4fcc12c4bbc2cd2bb7ec4c538206b945ebe8ea01
+‹
+[src/test/java/co/com/choucair/formacion/reto02/stepdefinitions/SimuladorStepDefinition.java,c\8\c8ae6550aba93d33c92a1553fb35e1be1f6aee7c
+v
+Fsrc/test/java/co/com/choucair/formacion/reto02/runners/RunnerTags.java,3\9\398ffc2956aa934c1187f1097e6667ea4162e85b
